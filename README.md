@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">I'm Shivam Singh,I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love to meet new people, exchanging ideas and spreading knowledge and positivity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsingh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsingh" alt="shivamsingh" /></a> </p>
 
 - 🌱 I’m currently learning **Nuxtjs || Talwind Css**
 
