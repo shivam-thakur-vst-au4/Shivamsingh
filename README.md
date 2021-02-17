@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Nuxtjs || Talwind Css**
 
-- 💬 Ask me about **Reactjs || Nuxtjs || PostgreSql**
+- 💬 Ask me about **Reactjs || Express js ||  Nodejs || PostgreSql**
 
 - 📫 How to reach me **shivamsinghfb96@gmail.com**
 
